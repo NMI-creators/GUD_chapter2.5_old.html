@@ -49,7 +49,7 @@
   <h1>凱友伝 旧二.五章</h1>
 
   <!-- 各話のリンク（必要に応じて追加していく） -->
-  <a href="𓏸𓏸話ページへのリンク" class="episode-link">
+  <a href="https://nmi-creators.github.io/GUD_2.5_1-/" class="episode-link">
     <img src="IMG_8375.jpeg" alt="第1話サムネイル" class="thumbnail">
     <span class="episode-title">旧二.五章 一話</span>
   </a>
