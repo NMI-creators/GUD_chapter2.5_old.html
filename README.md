@@ -85,7 +85,7 @@
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
-    <img src="𓏸𓏸話のサムネイル画像URL" alt="第8話サムネイル" class="thumbnail">
+    <img src="IMG_8382.jpeg" alt="第8話サムネイル" class="thumbnail">
     <span class="episode-title">旧二.五章 八話</span>
   </a>
   
