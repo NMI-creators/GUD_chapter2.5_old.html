@@ -56,37 +56,37 @@
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="IMG_8376.jpeg" alt="第2話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 二話</span>
+    <span class="episode-title">旧二.五章 二話</span>
   </a>
   
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="IMG_8377.jpeg" alt="第3話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 三話</span>
+    <span class="episode-title">旧二.五章 三話</span>
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="IMG_8378.jpeg" alt="第4話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 四話</span>
+    <span class="episode-title">旧二.五章 四話</span>
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
-    <img src="𓏸𓏸話のサムネイル画像URL" alt="第5話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 五話</span>
+    <img src="IMG_8379.jpeg" alt="第5話サムネイル" class="thumbnail">
+    <span class="episode-title">旧二.五章 五話</span>
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="𓏸𓏸話のサムネイル画像URL" alt="第6話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 六話</span>
+    <span class="episode-title">旧二.五章 六話</span>
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="𓏸𓏸話のサムネイル画像URL" alt="第7話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 七話</span>
+    <span class="episode-title">旧二.五章 七話</span>
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
     <img src="𓏸𓏸話のサムネイル画像URL" alt="第8話サムネイル" class="thumbnail">
-    <span class="episode-title">旧二w五章 八話</span>
+    <span class="episode-title">旧二.五章 八話</span>
   </a>
   
   <!-- 以下、話数が増えるごとにコピペで追加 -->
