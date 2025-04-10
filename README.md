@@ -55,7 +55,7 @@
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
-    <img src="𓏸𓏸話のサムネイル画像URL" alt="第2話サムネイル" class="thumbnail">
+    <img src="IMG_8376.jpeg" alt="第2話サムネイル" class="thumbnail">
     <span class="episode-title">旧二w五章 二話</span>
   </a>
   
