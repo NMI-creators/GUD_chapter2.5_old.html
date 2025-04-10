@@ -65,7 +65,7 @@
   </a>
 
   <a href="𓏸𓏸話ページへのリンク" class="episode-link">
-    <img src="𓏸𓏸話のサムネイル画像URL" alt="第4話サムネイル" class="thumbnail">
+    <img src="IMG_8378.jpeg" alt="第4話サムネイル" class="thumbnail">
     <span class="episode-title">旧二w五章 四話</span>
   </a>
 
