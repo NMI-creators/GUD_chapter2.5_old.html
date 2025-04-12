@@ -59,7 +59,7 @@
     <span class="episode-title">旧二.五章 二話</span>
   </a>
   
-  <a href="𓏸𓏸話ページへのリンク" class="episode-link">
+  <a href="https://nmi-creators.github.io/GUD_2.5_3/" class="episode-link">
     <img src="IMG_8377.jpeg" alt="第3話サムネイル" class="thumbnail">
     <span class="episode-title">旧二.五章 三話</span>
   </a>
